@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Arma</folder>
+	<filename>vlcsnap-2021-10-11-18h36m37s235 - copia.png</filename>
+	<path>D:\EntornoTensorflow\GALERIA\DATASET2\Arma\vlcsnap-2021-10-11-18h36m37s235 - copia.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>150</ymin>
+			<xmax>824</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

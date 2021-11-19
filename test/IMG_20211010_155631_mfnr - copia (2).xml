@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Arma</folder>
+	<filename>IMG_20211010_155631_mfnr - copia (2).jpg</filename>
+	<path>D:\EntornoTensorflow\GALERIA\DATASET2\Arma\IMG_20211010_155631_mfnr - copia (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1058</xmin>
+			<ymin>2160</ymin>
+			<xmax>1183</xmax>
+			<ymax>2429</ymax>
+		</bndbox>
+	</object>
+</annotation>

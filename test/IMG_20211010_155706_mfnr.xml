@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Arma</folder>
+	<filename>IMG_20211010_155706_mfnr.jpg</filename>
+	<path>D:\EntornoTensorflow\GALERIA\DATASET2\Arma\IMG_20211010_155706_mfnr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1285</ymin>
+			<xmax>140</xmax>
+			<ymax>1504</ymax>
+		</bndbox>
+	</object>
+</annotation>
